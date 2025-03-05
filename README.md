@@ -1,8 +1,20 @@
-# React + Vite
+# Interactive Training Program
+## An interactive training program built with ReactJS to help you track your workouts. This app allows you to log your exercises and monitor your progress over time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>Features</h3>
 
-Currently, two official plugins are available:
+- Track workouts with exercises, reps, sets, and weights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- View your progress in a simple and easy-to-understand format
+
+- Interactive and user-friendly interface
+
+
+<h3>Technologies Used</h3>
+
+- ReactJS
+
+- HTML
+
+- CSS
+
